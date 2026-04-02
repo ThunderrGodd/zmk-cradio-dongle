@@ -1,7 +1,7 @@
 if SHIELD_KLOTZ_DONGLE
 
     config ZMK_KEYBOARD_NAME
-        default "Cradio
+        default "Cradio"
 
     config ZMK_SPLIT_ROLE_CENTRAL
         default y
